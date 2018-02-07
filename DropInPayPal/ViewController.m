@@ -25,7 +25,7 @@ NSString *resultCheck;
     // Do any additional setup after loading the view, typically from a nib.
     
 // Using tokenization key. If you want to use a feature like 3D Secure, please use client-token instead
-myTokenizationKey = @"sandbox_tpt8mgp5_26qns4ycnjgrr6cv";
+myTokenizationKey = @"sandbox_9cn37sjt_wwdyzynjc54qxywk";
     
     
 }
