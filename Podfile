@@ -1,4 +1,4 @@
 target "DropInPayPal" do
     pod 'BraintreeDropIn'
-    pod 'Braintree/PayPal'
+    pod 'Braintree'
 end
